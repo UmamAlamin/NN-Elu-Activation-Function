@@ -6,4 +6,6 @@
   <h2>Dataset</h2>
   <p>Dataset are used MNIST (grey Images in 10 classes). 
   </p>
-
+<h2>Result</h2>
+![image](https://github.com/user-attachments/assets/c35d15b5-711c-48f1-8694-d61fc0941121)
+<p></p>
